@@ -27,7 +27,7 @@ The pipeline can be run using ```Final_Project.ipynb``` or ```main.py``` on the 
  
 ## 1. Variables Correlations                                               
                                                                            
-![output.png](output.png "Correlation Matrix")                             
+![output.png](bigdata/output.png "Correlation Matrix")                             
 **Fig 1**. Correlations heatmap for the NASA Airfoil Self Noise dataset.  
 
 The AngleOfAttack and SuctionSideDisplacement variables are highly correlated (0.75) (Fig. 1).
