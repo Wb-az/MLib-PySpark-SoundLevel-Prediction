@@ -64,7 +64,7 @@ The AngleOfAttack and SuctionSideDisplacement variables are highly correlated (0
 
 **Table 3**: Best Model result and parameters for the Gradient Boosted Regressor optimisation
 
- | Model            | No Folds | RMS  | R2   | MaxIter | MaxDepth | MaxBins |
+ | Model            | No Folds | RMSE  | R2   | MaxIter | MaxDepth | MaxBins |
  |------------------|----------|------|------|---------|----------|---------|
  | Gradient Boosted | 5        | 2.60 | 0.87 | 25      | 8        | 25      |
                                                                    
