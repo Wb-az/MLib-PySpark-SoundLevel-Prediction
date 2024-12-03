@@ -49,7 +49,7 @@ The AngleOfAttack and SuctionSideDisplacement variables are highly correlated (0
 | R2      | 0.42              | -70.9               | 0.79          | 0.87             | 
             
 
-**Table 2.1 **: Test scores
+**Table 2.1**: Test scores
                                                                                 
  | Metrics | Linear Regression | Factorized Machines | Random Forest | Gradient Boosted |             
  |---------|-------------------|---------------------|---------------|------------------|            
@@ -59,7 +59,7 @@ The AngleOfAttack and SuctionSideDisplacement variables are highly correlated (0
  | R2      | 0.57              | -52.49              | 0.82          | 0.85             |          
             
 
-### 1.2 Fine tune the best Cross Validation and Parameters Grid search - 5 Folds
+### 1.2 Fine-tune the best Cross Validation and Parameters Grid search - 5 Folds
 
 
 **Table 3**: Best Model result and parameters for the Gradient Boosted Regressor optimisation
