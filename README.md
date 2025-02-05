@@ -2,8 +2,7 @@
 Creates an ML Pipeline leveraging PySpark SQL and PySpark MLib to predict airfoils noise levels. 
 
 This repository contains Data Engineering and ML material completed to obtain the [Data Engineering Professional Certificate](https://www.credly.com/earner/earned/badge/e0a1b78c-db53-484c-8363-2da95ba0582a) and the
-[Machine Learning with Apache Spark Certification](https://www.credly.com/earner/earned/badge/886943d9-1bda-45b)
-offered by IBM.                                                                                                     
+[Machine Learning with Apache Spark Certification](https://www.credly.com/badges/886943d9-1bda-45be-a3eb-655a1cf98822/public_url) offered by IBM.                                                                                                     
                                                                                                                
 The project aims to create an ML Pipeline from a data engineer perspective at an aeronautics consulting company
 that designs airfoils for use in planes and sports cars. In this project, the                                  
